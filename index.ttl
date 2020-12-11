@@ -1,0 +1,3 @@
+@prefix _: <>.
+
+_:stiphout_2011_clinical _:has_model_location <https://gitlab.com/UM-CDS/projects/FAIRcomml/model_descriptions/-/raw/1-describe-stiphout-model-in-rdf-triples/stiphout_2011/stiphout_2011.ttl>.
